@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+.wow {
+  width: 100px;
+}
+
+body {
+  background-color: #edf6f9;
+  color: #812227;
+  font-family: 'Prompt', sans-serif;
+  text-align: center;
+}
+
+
+.btn-add-number {
+  display: inline-block;
+  border-style: none;
+  border-radius: 20px;
+  background-color: #83c5be;
+  color: #006d77;
+  font-family: 'Prompt', sans-serif;
+  padding: 10px;
+  margin: 10px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+
+.btn-add-number:hover {
+  background-color: #006d77;
+  color: #fff;
+}
